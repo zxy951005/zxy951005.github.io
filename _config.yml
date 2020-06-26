@@ -224,6 +224,4 @@ plugins:
   - jekyll-sitemap
   - jemoji
   
-  
-  
-theme: jekyll-text-theme
+
